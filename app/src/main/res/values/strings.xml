@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sayan_App</string>
+    <string name="request_immediate_support_and_get_help">Request Immediate Support And Get Help</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="submit">Submit</string>
+    <string name="cause_of_distress">CAUSE OF DISTRESS</string>
+    <string name="medicine">MEDICINE</string>
+    <string-array name="languages">
+        <item>  SELECT </item>
+        <item> EARTHQUAKE </item>
+        <item> FLOOD </item>
+        <item> DROUGHT </item>
+        <item> PLAGUE </item>
+        <item> OTHERS </item>
+    </string-array>
+
+    <string-array name="calamities">
+        <item>        </item>
+        <item> FOOD AND WATER </item>
+        <item> MEDICINE </item>
+        <item> CLOTHING AND COVER </item>
+    </string-array>
+
+</resources>
